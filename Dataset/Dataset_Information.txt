@@ -1,0 +1,7 @@
+Provided file: bank-full (1).csv
+Format: semicolon-delimited CSV
+Rows/columns: 45,211 / 17
+Target: y (yes/no term-deposit subscription)
+Source identity: Bank Marketing dataset, UCI Machine Learning Repository
+Source page: https://archive.ics.uci.edu/dataset/222/bank+marketing
+The supplied original CSV is preserved unchanged.
